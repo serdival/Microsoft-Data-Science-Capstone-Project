@@ -12,6 +12,6 @@ To complete this challenge:
 
 2) Next, create a regression model that predicts a customer's average monthly spend. The model should predict average monthly spend for new customers for whom no information about average monthly spend or previous bike purchases is available. Refine your model to optimize its RMSE.
 
-3) Download the test data (AWCTest-classification.CVS and AWCTest-regression.CVS). This data includes customer features but does not include bike purchasing or average monthly spend values.
+3) Download the test data (AWCTest-Classification.CVS and AWCTest-Regression.CVS). This data includes customer features but does not include bike purchasing or average monthly spend values.
 
 4) Test your models using the corresponding test dataset, and enter your predictions. Note that you can a maximum of 10 times for each model.
